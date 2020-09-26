@@ -11,3 +11,5 @@ Similar questions motivate my interest in a resurgent far right: asking if and h
 <a href="mailto:dan@prisk.ca">dan@prisk.ca</a>
 
 <a href="http://twitter.com/danprisk">@danprisk</a>
+
+<a href="https://dan.prisk.ca">dan.prisk.ca</a>
