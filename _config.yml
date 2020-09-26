@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Dan Prisk
 description: Environmental Sociology
 logo: danprisk_profile.jpeg
-
+show_downloads: false
