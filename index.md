@@ -8,8 +8,8 @@ Similar questions motivate my interest in a resurgent far right: asking if and h
 
 ### Contact
 
-<a href="mailto:dan@prisk.ca">dan@prisk.ca</a>
+[dan@prisk.ca](mailto:dan@prisk.ca)
 
-<a href="http://twitter.com/danprisk">@danprisk</a>
+[@danprisk](http://twitter.com/danprisk) 
 
-<a href="https://dan.prisk.ca">dan.prisk.ca</a>
+[dan.prisk.ca](https://dan.prisk.ca)
