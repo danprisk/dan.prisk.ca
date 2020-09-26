@@ -1,5 +1,3 @@
-# Dan Prisk
-
 ## Environmental Sociology
 
 I am a graduate student in sociology at the University of British Columbia.
