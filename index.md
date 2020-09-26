@@ -8,8 +8,4 @@ Similar questions motivate my interest in a resurgent far right: asking if and h
 
 ### Contact
 
-[dan@prisk.ca](mailto:dan@prisk.ca)
-
-[@danprisk](http://twitter.com/danprisk) 
-
-[dan.prisk.ca](https://dan.prisk.ca)
+[dan@prisk.ca](mailto:dan@prisk.ca) / [@danprisk](http://twitter.com/danprisk) / [dan.prisk.ca](https://dan.prisk.ca)
