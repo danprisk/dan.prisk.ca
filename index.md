@@ -1,5 +1,3 @@
-## Environmental Sociology
-
 I am a graduate student in sociology at the University of British Columbia.
 
 There I study environmental sociology, social movements, and social theory. 
