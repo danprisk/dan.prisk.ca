@@ -1,6 +1,6 @@
 ### About
 
-I am a graduate student in the Department of Sociology at the University of British Columbia. There I study environmental sociology, social movements, and social theory. 
+I am a graduate student in the [Department of Sociology](https://sociology.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/). There I study environmental sociology, social movements, and social theory. 
 
 ### Research
 
