@@ -10,7 +10,7 @@ Similar questions motivate my interest in a resurgent far right: asking if and h
 
 ### Curriculum Vitae
 
-Download my cv [here](https://raw.githubusercontent.com/danprisk/danprisk.github.io/master/cv.pdf).
+Download my cv [here](https://raw.githubusercontent.com/danprisk/cv/main/cv.pdf).
 
 ### Contact
 
