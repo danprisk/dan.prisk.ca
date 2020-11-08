@@ -8,6 +8,10 @@ My research questions the individual and structural factors that contribute to e
 
 Similar questions motivate my interest in a resurgent far right: asking if and how this current resurgence differs from prior movements, and what factors of our social structures have given space for their rise.
 
+### Curriculum Vitae
+
+Download my cv [here]{cv.pdf}.
+
 ### Contact
 
 [dan@prisk.ca](mailto:dan@prisk.ca) / [@danprisk](http://twitter.com/danprisk) / [dan.prisk.ca](https://dan.prisk.ca)
