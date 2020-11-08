@@ -10,7 +10,7 @@ Similar questions motivate my interest in a resurgent far right: asking if and h
 
 ### Curriculum Vitae
 
-Download my cv [here]{cv.pdf}.
+Download my cv [here]{http://http://dan.prisk.ca/cv.pdf}.
 
 ### Contact
 
