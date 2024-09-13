@@ -4,9 +4,10 @@ I'm a social scientist with a professional background in software
 development. I received my M.A. in
 [Sociology](https://sociology.ubc.ca/) from [The University of British
 Columbia](https://www.ubc.ca/), where I studied sociology of
-environment, marginalization, and health. Prior to returning to
-academia I led product and project management for Agile software
-development teams in startup environments.
+environment, marginalization, and health. 
+
+Prior to returning to academia I led product and project management
+for Agile software development teams in startup environments.
 
 ### Research
 
@@ -17,7 +18,7 @@ computational methods.
 
 ### Curriculum Vitae
 
-Download my cv [here](https://raw.githubusercontent.com/danprisk/cv/main/cv.pdf).
+For more detailed information you can [download my curriculum vitae](https://raw.githubusercontent.com/danprisk/danprisk.guthib.io/master/danprisk_cv.pdf).
 
 ### Contact
 
