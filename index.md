@@ -18,7 +18,7 @@ computational methods.
 
 ### Curriculum Vitae
 
-For more detailed information you can [download my curriculum vitae](https://raw.githubusercontent.com/danprisk/danprisk.guthib.io/master/danprisk_cv.pdf).
+For more detailed information you can [download my curriculum vitae](https://raw.githubusercontent.com/danprisk/danprisk.github.io/master/danprisk_cv.pdf).
 
 ### Contact
 
