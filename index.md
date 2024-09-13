@@ -22,4 +22,5 @@ For more detailed information you can [download my curriculum vitae](https://raw
 
 ### Contact
 
-[dan@prisk.ca](mailto:dan@prisk.ca) / [dan.prisk.ca](https://dan.prisk.ca)
+[dan@prisk.ca](mailto:dan@prisk.ca) /
+[dan.prisk.ca](https://dan.prisk.ca) / [linkedin.com/danprisk](https://www.linkedin.com/in/danprisk)
